@@ -1,0 +1,8 @@
+newmtl StripLight
+Kd 0.7794118 0.7794118 0.7794118
+d 1
+
+newmtl EmissiveLight
+Kd 1 1 1
+d 1
+

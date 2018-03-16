@@ -18,6 +18,12 @@ MonoBehaviour:
   - pbDisableAutoUV2Generation
   - pbForceConvex
   - pbMeshesAreAssets
+  - pbDragSelectWholeElement
+  - pbFillHoleSelectsEntirePath
+  - pbGenerateUV2PerObject
+  - pb_Debug_testOcclusion
+  - pbShowDetail
+  - pbDefaultOpenInDockableWindow
   m_Int_keys:
   - pbDefaultEditLevel
   - pbDefaultSelectionMode
@@ -26,23 +32,32 @@ MonoBehaviour:
   - pbDefaultCollider
   - pbShadowCastingMode
   - pbHandleAlignment
+  - pbExtrudeMethod
+  - pbDragSelectMode
+  - pbVertexColorTool
   m_Float_keys:
   - pbEditorScroll.x
   - pbEditorScroll.y
   - pbWeldDistance
   - pbBevelAmount
+  - pbExtrudeDistance
+  - pb_Debug_elementLength
+  - pb_Debug_elementOffset
   m_String_keys:
   - pbCurrentMaterialPalette
   m_Color_keys: []
   m_Material_keys:
   - pbDefaultMaterial
-  m_Bool_values: 000001000000
-  m_Int_values: 00000000020000000100000000000000020000000200000001000000
+  m_Bool_values: 000001000000000100000101
+  m_Int_values: 01000000020000000000000000000000020000000200000000000000020000000200000000000000
   m_Float_values:
   - 0
   - 0
-  - 0.00001
-  - 1
+  - 0.1
+  - 0.10597765
+  - 0.25
+  - 0.193
+  - 0.0032
   m_String_values:
   - Assets/ProCore/ProBuilder/Data/Default Material Palette.asset
   m_Color_values: []

@@ -1,0 +1,13 @@
+newmtl Default_Prototype
+map_Kd GridBox_Default.png
+Kd 0.595588 0.595588 0.595588
+d 1
+
+newmtl SmoothMetal
+Kd 0.5389274 0.5683958 0.6544117
+d 1
+
+newmtl RedCarPaint
+Kd 0.875 0.05790439 0.05790439
+d 1
+
